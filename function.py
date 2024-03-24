@@ -3,3 +3,11 @@ def summ_digit():
 
 
 print(summ_digit())
+
+
+
+def summ():
+    a + b
+
+
+print(sum)
